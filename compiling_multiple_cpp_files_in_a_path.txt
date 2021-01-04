@@ -1,0 +1,1 @@
+PS C:\Users\Acer\Documents\a_tour_of_cpp\chap_03\separate_compilation> cd "c:\Users\Acer\Documents\a_tour_of_cpp\chap_03\separate_compilation\" ; if ($?) { g++ main.cpp -o main Vector.cpp } ; if ($?) { .\main }
